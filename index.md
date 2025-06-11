@@ -4,8 +4,8 @@
 
 
 
-- **Dates**: Wednesday November 22 - Friday November 24, 2023. 
-- **Venue**: Monash University Clayton campus, Melbourne.
+- **Dates**: Monday November 17 - Tuesday November 18, 2025. 
+- **Venue**: La Trobe University City campus, Melbourne.
 
 
 
@@ -420,8 +420,5 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
 </table>
 <h2 id="us">Organisers</h2>
 
-- [Santiago Barrera Acevedo](https://users.monash.edu/~sacevedo/), Monash Unversity
-- [Heiko Dietrich](https://users.monash.edu/~heikod/), Monash Unversity
-- [Melissa Lee](https://melissamaths.wordpress.com/), Monash Unversity
-- [Tomasz Popiel](https://tomasz-popiel.github.io/index.html), Monash Unversity
-
+- [Santi Barrera Acevedo](https://scholars.latrobe.edu.au/s2barreraace), La Trobe Unversity
+- [Marcel Jackson](https://scholars.latrobe.edu.au/mgjackson), La Trobe Unversity
