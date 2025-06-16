@@ -23,13 +23,13 @@ The conference has a proud tradition of encouraging talks by students: typically
 <a href="#them">Registered Participants</a><br />
 <a href="#us">Organisers</a><br />
 
-<h2 id="photo">Conference photo</h2>
-
 <h2 id="schedule">Information</h2>
 
 The conference will be held at the La Trobe University City Campus, located on Level 2, 360 Collins Street, Melbourne VIC 3000.
 
 This centrally located venue offers convenient access via bus, tram, and train, as it is situated in the heart of Melbourne’s Central Business District (CBD). A wide range of accommodation options, including hotels and hostels, are available nearby, along with numerous dining venues catering to various preferences and budgets.
+
+All talks will be held in Room ENTER DETAILS.
 
 <h2 id="inv-sp">Invited speakers</h2>
 
@@ -38,6 +38,8 @@ To be announced.
 <h2 id="rego">Registration</h2>
 
 Registration is now open, to register please fill in [this form]()
+
+Registration fees should be paid via bank transfer - more details will be emailed to you once you register.
 
 Please see below for the schedule of conference registration fees.
 
@@ -70,9 +72,6 @@ Please see below for the schedule of conference registration fees.
 </table>
 </html>
 
-
-Registration fees should be paid via bank transfer - more details will be emailed to you once you register.
-
 We will have an individually funded conference dinner at ENTER NAME OF PUB/RESTAURANT on Tuesday 18th November.
 
 <h2 id="rego">Travel Support for Students</h2>
@@ -99,6 +98,8 @@ To register, please fill in [this form]()
 
 The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/gordon-preston-prize) is awarded for the best presentation at the AAC given by a current student based at an Australian or overseas university. The presentations will be judged by a panel appointed by the executive committee. The winner of the prize will receive $300. [The Rules](https://sites.google.com/a/ltumathstats.com/austalg/rules-for-the-gordon-preston-prize) for the Gordon Preston Prize are available on the website of the Australian Algebra Group. 
 
+<h2 id="photo">Conference photo</h2>
+
 <h2 id="local">Local Information</h2>
 
 <html>
@@ -110,7 +111,7 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
 	The conference will be held at the La Trobe University city campus.
 </p>
 <p>
-	All talks will be held in Room AAA 
+	
 
 <h2 id="them">Registered Participants</h2>
 <table class="tg">
