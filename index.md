@@ -13,10 +13,8 @@ The main aim of the annual Australian Algebra Conference is to foster communicat
 
 The conference has a proud tradition of encouraging talks by students: typically about one third of the talks are presented by students. The conference aims to provide graduate students in algebra with the opportunity to give their first public presentation in a relaxed and supportive environment. Each conference, the most outstanding student talk is awarded the [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/gordon-preston-prize).
 
-**Attention**: We have learned that some unsolicited travel/service e-mails have been sent out to conference attendees. These e-mails have nothing to do with the conference, and we ask you to treat these with caution.
-
 ## Jump to
-<a href="#schedule">Schedule, Transport and Information Booklet</a><br />
+<a href="#schedule">Schedule, Transport and Information</a><br />
 <a href="#inv-sp">Invited speakers</a><br />
 <a href="#rego">Registration</a><br />
 <a href="#dead">Deadlines</a><br />
@@ -33,19 +31,15 @@ The conference has a proud tradition of encouraging talks by students: typically
 Please click <a href="BOA-AAC07.pdf">here</a> to download the conference information booklet, which includes the abstracts and the schedule. 
 
 The schedule itself is also shown <a href="#talks">below</a>, and can be downloaded separately <a href="AAC timetable v.2.pdf">here</a>.
- 
-If you would like to try to organise a carpool to the airport with other participants, please see [this spreadsheet.](https://docs.google.com/spreadsheets/d/1lSGkrxpyUjRvsC2_32R-xB2fgvJKpG-BZk0TkDq1HCY/edit?usp=sharing)
 
 <h2 id="inv-sp">Invited speakers</h2>
 
-| <img src="eamonn.jpg" style="object-fit:cover;width:193px;height:225px;"> | <img src="new_colva.png" style="object-fit:cover;width:193px;height:225px;"> | <img src="geertrui.jpg" style="object-fit:cover;width:193px;height:225px;"> |
-|:--:|:--:|:--:|
-[Eamonn O'Brien](https://www.math.auckland.ac.nz/~obrien/), University of Auckland, New Zealand. | [Colva Roney-Dougal](https://www.st-andrews.ac.uk/mathematics-statistics/people/cmr1/), University of St. Andrews, UK. |[Geertrui Van de Voorde](https://www.canterbury.ac.nz/engineering/contact-us/people/geertrui-van-de-voorde.html), University of Canterbury, New Zealand. |
+To be announced.
 
 
 <h2 id="rego">Registration</h2>
 
-**Registration is now closed!**
+Registration is now open
 
 
 Please see below for the schedule of conference registration fees.
