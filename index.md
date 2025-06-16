@@ -70,7 +70,7 @@ Please see below for the schedule of conference registration fees.
 
 Registration fees should be paid via bank transfer - more details will be emailed to you once you register.
 
-We will have an individually funded conference dinner at the [Notting Hill Hotel](https://www.nottinghillhotel.com.au/) on Tuesday 18th November.
+We will have an individually funded conference dinner at the AAA pub on Tuesday 18th November.
 
 There is limited travel support available for students. If you would like to apply for this support, please email [Santiago Barrera Acevedo](mailto:s.barreraacevedo@latrobe.edu.au?subject=Student%20funding%20application%20for%20AAC) with a letter of support from your supervisor and an approximate budget of your expenses.
 
@@ -91,9 +91,6 @@ The allocation of funding will be communicated to applicants before registration
 
  <img src="timetable.png" width="800">
 
-**Please note: All talk slots are now filled. If you would like to join the waiting list for talk slots, or if you have any questions or concerns, please email [Santiago Barrera Acevedo](mailto:santiago.barrera.acevedo@monash.edu?subject=Student%20funding%20application%20for%20AAC).**
-
-
 
 ## Gordon Preston Prize
 
@@ -107,31 +104,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
 </head>
 <body>
 <p>
-	The conference will be held at the Clayton campus of Monash University in Melbourne.
+	The conference will be held at the La Trobe University city campus.
 </p>
 <p>
-	All talks will be held in Lecture Theatre South 1 (43 Rainforest Walk), close to the bus loop: please see the <a href="https://maps.monash.edu/#v=1&amp;zlevel=2&amp;center=145.131116,-37.913012&amp;zoom=17.12&amp;campusid=159&amp;sharepoitype=poi&amp;sharepoi=1217534">Clayton Campus Map</a> for details (a static version of the map is available <a href="https://www.monash.edu/__data/assets/pdf_file/0004/2658973/Clayton-campus-map.pdf">here</a>).
-</p>
-<img width="250" alt="venue1" src="https://github.com/melissa-maths/aac07.github.com/assets/132030158/56f517d1-9402-4795-8ad3-b74f2e1e03ac">
-<p>
-	The Clayton campus is located about 25km south-east of the Melbourne CBD.
-</p>
-<p>
-	Here are some suggestions for accommodation close to Monash Clayton campus:
-</p>
-<ul>
-	<li><a href="https://claytonservicedapartments.com/">Clayton Serviced Apartments</a></li>
-	<li><a href="https://www.questapartments.com.au/properties/vic/notting-hill/quest-notting-hill">Quest Notting Hill Serviced Apartments</a></li>
-	<li><a href="https://www.gatewayonmonash.com.au/">Gateway on Monash Hotel</a></li>
-	<li><a href="https://www.google.com/aclk?sa=l&amp;ai=DChcSEwj6iPa665T-AhUOk2YCHe7fDpUYABADGgJzbQ&amp;sig=AOD64_3dMB9HbDR4j1CN5jX1_cuKG8n8-g&amp;q&amp;adurl&amp;ved=2ahUKEwjwje-665T-AhX4T2wGHXtfD6AQ0Qx6BAgKEAE">ParkRoyal Monash Hotel&nbsp;</a></li>
-</ul>
-<p>
-	If choosing to stay in the city instead, participants can reach the campus fairly easily by taking the Pakenham/Cranbourne train to Huntingdale, and then taking the 601 shuttle bus. This journey takes around 30-45min and both legs run regularly.
-</p>
-</body>
-</html>
-<img width="500" alt="bus route" src="https://github.com/melissa-maths/aac07.github.com/assets/132030158/ef9d5ba4-8406-417f-87c9-8a901bcdfa8a">
-
+	All talks will be held in Room AAA 
 
 <h2 id="them">Registered Participants</h2>
 <table class="tg">
