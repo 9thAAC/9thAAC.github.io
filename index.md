@@ -37,7 +37,7 @@ To be announced.
 
 <h2 id="rego">Registration</h2>
 
-Registration is now open, to register please fill in [this form]()
+Registration is now open; to register please fill in [this form]()
 
 Registration fees should be paid via bank transfer - more details will be emailed to you once you register.
 
@@ -82,7 +82,7 @@ The allocation of funding will be communicated to applicants before registration
 
 <!-- **To register, please fill in [this form](https://forms.gle/HifdrEdRzJRnovBd6).** -->
 
-To register, please fill in [this form]()
+To register for travel support, please fill in [this form]()
 
 <h2 id="dead">Deadlines</h2>
 
@@ -92,7 +92,9 @@ To register, please fill in [this form]()
 
 **Abstract deadline:** 3rd November 2023
 
-<h2 id="talks">Talks</h2>
+<h2 id="talks">Talk Schedule</h2>
+
+To be announced. 
 
 ## Gordon Preston Prize
 
