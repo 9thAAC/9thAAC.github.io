@@ -1,6 +1,6 @@
 
 
-  <img src="Latrobe.jpg" style="object-fit:cover;width:800px;"> 
+  <img src="La-Trobe-University-Australia.jpg" style="object-fit:cover;width:800px;"> 
 
 
 
