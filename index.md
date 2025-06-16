@@ -98,20 +98,6 @@ To register, please fill in [this form]()
 
 The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/gordon-preston-prize) is awarded for the best presentation at the AAC given by a current student based at an Australian or overseas university. The presentations will be judged by a panel appointed by the executive committee. The winner of the prize will receive $300. [The Rules](https://sites.google.com/a/ltumathstats.com/austalg/rules-for-the-gordon-preston-prize) for the Gordon Preston Prize are available on the website of the Australian Algebra Group. 
 
-<h2 id="photo">Conference photo</h2>
-
-<h2 id="local">Local Information</h2>
-
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8">
-</head>
-<body>
-<p>
-	The conference will be held at the La Trobe University city campus.
-</p>
-<p>
-	
 
 <h2 id="them">Registered Participants</h2>
 <table class="tg">
@@ -132,6 +118,9 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
   </tr>
 </tbody>
 </table>
+
+<h2 id="photo">Conference photo</h2>
+
 <h2 id="us">Organisers</h2>
 
 - [Santi Barrera Acevedo](https://scholars.latrobe.edu.au/s2barreraace), La Trobe Unversity
