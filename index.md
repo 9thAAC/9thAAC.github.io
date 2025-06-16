@@ -24,22 +24,16 @@ The conference has a proud tradition of encouraging talks by students: typically
 <a href="#us">Organisers</a><br />
 
 <h2 id="photo">Conference photo</h2>
-<img src="20231126_113807.jpg" style="object-fit:cover;width:800px;"> 
 
 <h2 id="schedule">Schedule, Transport and Information Booklet</h2>
-
-Please click <a href="BOA-AAC07.pdf">here</a> to download the conference information booklet, which includes the abstracts and the schedule. 
-
-The schedule itself is also shown <a href="#talks">below</a>, and can be downloaded separately <a href="AAC timetable v.2.pdf">here</a>.
 
 <h2 id="inv-sp">Invited speakers</h2>
 
 To be announced.
 
-
 <h2 id="rego">Registration</h2>
 
-Registration is now open
+Registration is now open.
 
 
 Please see below for the schedule of conference registration fees.
