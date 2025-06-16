@@ -5,7 +5,7 @@
 
 
 - **Dates**: Monday November 17 - Tuesday November 18, 2025. 
-- **Venue**: La Trobe University City campus, Melbourne.
+- **Venue**: La Trobe University City Campus, Melbourne.
 
 
 
