@@ -35,7 +35,6 @@ To be announced.
 
 Registration is now open.
 
-
 Please see below for the schedule of conference registration fees.
 
 <html>
@@ -79,7 +78,6 @@ The allocation of funding will be communicated to applicants before registration
 <!-- **To register, please fill in [this form](https://forms.gle/HifdrEdRzJRnovBd6).** -->
 
 To register, please fill in [this form](https://forms.gle/HifdrEdRzJRnovBd6)
-
 
 <h2 id="dead">Deadlines</h2>
 
