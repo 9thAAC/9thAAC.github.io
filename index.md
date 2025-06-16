@@ -14,7 +14,7 @@ The main aim of the annual Australian Algebra Conference is to foster communicat
 The conference has a proud tradition of encouraging talks by students: typically about one third of the talks are presented by students. The conference aims to provide graduate students in algebra with the opportunity to give their first public presentation in a relaxed and supportive environment. Each conference, the most outstanding student talk is awarded the [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/gordon-preston-prize).
 
 ## Jump to
-<a href="#schedule">Schedule, Transport and Information</a><br />
+<a href="#schedule">Information</a><br />
 <a href="#inv-sp">Invited speakers</a><br />
 <a href="#rego">Registration</a><br />
 <a href="#dead">Deadlines</a><br />
@@ -25,7 +25,11 @@ The conference has a proud tradition of encouraging talks by students: typically
 
 <h2 id="photo">Conference photo</h2>
 
-<h2 id="schedule">Schedule, Transport and Information Booklet</h2>
+<h2 id="schedule">Information</h2>
+
+The conference will be held at the La Trobe University City Campus, located on Level 2, 360 Collins Street, Melbourne VIC 3000.
+
+This centrally located venue offers convenient access via bus, tram, and train, as it is situated in the heart of Melbourne’s Central Business District (CBD). A wide range of accommodation options, including hotels and hostels, are available nearby, along with numerous dining venues catering to various preferences and budgets.
 
 <h2 id="inv-sp">Invited speakers</h2>
 
@@ -33,7 +37,7 @@ To be announced.
 
 <h2 id="rego">Registration</h2>
 
-Registration is now open.
+Registration is now open, to register please fill in [this form]()
 
 Please see below for the schedule of conference registration fees.
 
@@ -69,7 +73,9 @@ Please see below for the schedule of conference registration fees.
 
 Registration fees should be paid via bank transfer - more details will be emailed to you once you register.
 
-We will have an individually funded conference dinner at the AAA pub on Tuesday 18th November.
+We will have an individually funded conference dinner at ENTER NAME OF PUB/RESTAURANT on Tuesday 18th November.
+
+<h2 id="rego">Travel Support for Students</h2>
 
 There is limited travel support available for students. If you would like to apply for this support, please email [Santiago Barrera Acevedo](mailto:s.barreraacevedo@latrobe.edu.au?subject=Student%20funding%20application%20for%20AAC) with a letter of support from your supervisor and an approximate budget of your expenses.
 
@@ -77,7 +83,7 @@ The allocation of funding will be communicated to applicants before registration
 
 <!-- **To register, please fill in [this form](https://forms.gle/HifdrEdRzJRnovBd6).** -->
 
-To register, please fill in [this form](https://forms.gle/HifdrEdRzJRnovBd6)
+To register, please fill in [this form]()
 
 <h2 id="dead">Deadlines</h2>
 
