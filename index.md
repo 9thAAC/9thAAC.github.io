@@ -37,15 +37,15 @@ To be announced.
 
 <h2 id="rego">Registration</h2>
 
-Registration is now open; to register please fill in [this form]()
+Registration is now open; to register please fill in [this form]().
 
 Registration fees should be paid via bank transfer. 
 
-BSB: 063-262
+**BSB:** 063-262
 
-Account: 1007 1018
+**Account:** 1007 1018
 
-Please include your first and last name in the payment description, and email your payment confirmation (e.g. pdf or sceenshot) to [Marcel Jackson](mailto:m.g.jackson@latrobe.edu.au?subject=Registration%20payment%20for%20AAC)
+Please include your first and last name in the payment description, and email your payment confirmation (e.g. pdf or sceenshot) to [Marcel Jackson](mailto:m.g.jackson@latrobe.edu.au?subject=Registration%20payment%20for%20AAC).
 
 Please see below the conference registration fees.
 
@@ -88,7 +88,7 @@ The allocation of funding will be communicated to applicants before registration
 
 <!-- **To register, please fill in [this form](https://forms.gle/HifdrEdRzJRnovBd6).** -->
 
-To register for travel support, please fill in [this form]()
+To register for travel support, please fill in [this form]().
 
 <h2 id="dead">Deadlines</h2>
 
