@@ -17,7 +17,7 @@ The conference has a proud tradition of encouraging talks by students: typically
 <a href="#schedule">Information</a><br />
 <a href="#inv-sp">Invited speakers</a><br />
 <a href="#rego">Registration</a><br />
-<a href="#rego">Travel Support for Students</a><br />
+<a href="#travel">Travel Support for Students</a><br />
 <a href="#dead">Deadlines</a><br />
 <a href="#talks">Talks</a><br />
 <a href="#them">Registered Participants</a><br />
@@ -74,7 +74,7 @@ Please see below for the schedule of conference registration fees.
 
 We will have an individually funded conference dinner at ENTER NAME OF PUB/RESTAURANT on Tuesday 18th November.
 
-<h2 id="rego">Travel Support for Students</h2>
+<h2 id="travel">Travel Support for Students</h2>
 
 There is limited travel support available for students. If you would like to apply for this support, please email [Santiago Barrera Acevedo](mailto:s.barreraacevedo@latrobe.edu.au?subject=Student%20funding%20application%20for%20AAC) with a letter of support from your supervisor and an approximate budget of your expenses.
 
@@ -127,3 +127,4 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
 
 - [Santi Barrera Acevedo](https://scholars.latrobe.edu.au/s2barreraace), La Trobe Unversity
 - [Marcel Jackson](https://scholars.latrobe.edu.au/mgjackson), La Trobe Unversity
+- [Olaga Minchin](https://au.linkedin.com/in/olga-minchin-645743ba), La Trobe Unversity
