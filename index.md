@@ -45,7 +45,7 @@ BSB: 063-262
 
 Account: 1007 1018
 
-Please include your name and last name in the payment description, and email your payment details (e.g. pdf or sceenshot) to [Marcel Jackson](mailto:m.g.jackson@latrobe.edu.au?subject=Registration%20payment%20for%20AAC)
+Please include your name and last name in the payment description, and email your payment confirmation (e.g. pdf or sceenshot) to [Marcel Jackson](mailto:m.g.jackson@latrobe.edu.au?subject=Registration%20payment%20for%20AAC)
 
 Please see below for the schedule of conference registration fees.
 
