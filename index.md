@@ -78,7 +78,7 @@ Please see below the conference registration fees.
 </table>
 </html>
 
-We will have an individually funded conference dinner at to be advised on the evening of Tuesday 18th November.
+We will have an individually funded conference dinner at to be advised in the evening of Tuesday 18th November.
 
 <h2 id="travel">Travel Support for Students</h2>
 
