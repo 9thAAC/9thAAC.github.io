@@ -47,7 +47,7 @@ Account: 1007 1018
 
 Please include your first and last name in the payment description, and email your payment confirmation (e.g. pdf or sceenshot) to [Marcel Jackson](mailto:m.g.jackson@latrobe.edu.au?subject=Registration%20payment%20for%20AAC)
 
-Please see below for the schedule of conference registration fees.
+Please see below the conference registration fees.
 
 <html>
 <table class="unstyledTable">
