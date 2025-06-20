@@ -17,9 +17,9 @@ The conference has a proud tradition of encouraging talks by students: typically
 <a href="#schedule">Information</a><br />
 <a href="#inv-sp">Invited speakers</a><br />
 <a href="#rego">Registration</a><br />
+<a href="#rego">Travel Support for Students</a><br />
 <a href="#dead">Deadlines</a><br />
 <a href="#talks">Talks</a><br />
-<a href="#local">Local Information</a><br />
 <a href="#them">Registered Participants</a><br />
 <a href="#us">Organisers</a><br />
 
