@@ -30,7 +30,7 @@ The conference will be held at the La Trobe University City Campus, located on L
 
 This centrally located venue offers convenient access via bus, tram, and train, as it is situated in the heart of Melbourne’s Central Business District (CBD). A wide range of accommodation options, including hotels and hostels, are available nearby, along with numerous dining venues catering to various preferences and budgets.
 
-All talks will be held in room to be announced.
+All talks will be held in "room to be announced".
 
 <h2 id="inv-sp">Invited speakers</h2>
 
