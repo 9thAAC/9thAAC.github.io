@@ -132,10 +132,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
 </table>
 </div>
 
-<h2 id="photo">Conference photo</h2>
-
 <h2 id="us">Organisers</h2>
 
 - [Santi Barrera Acevedo](https://scholars.latrobe.edu.au/s2barreraace), La Trobe Unversity
 - [Marcel Jackson](https://scholars.latrobe.edu.au/mgjackson), La Trobe Unversity
 - [Olaga Minchin](https://au.linkedin.com/in/olga-minchin-645743ba), La Trobe Unversity
+
+<h2 id="photo">Conference photo</h2>
