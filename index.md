@@ -1,6 +1,7 @@
 
-
+<div align="center">
   <img src="La-Trobe-University-Australia.jpg" style="object-fit:cover;width:800px;"> 
+  </div>
 
 
 
