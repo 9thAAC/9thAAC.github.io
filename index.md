@@ -130,7 +130,7 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
   </tr>
 </tbody>
 </table>
-<div>
+</div>
 
 <h2 id="photo">Conference photo</h2>
 
