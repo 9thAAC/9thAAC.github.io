@@ -110,8 +110,9 @@ To be announced.
 The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/gordon-preston-prize) is awarded for the best presentation at the AAC given by a current student based at an Australian or overseas university. The presentations will be judged by a panel appointed by the executive committee. The winner of the prize will receive $300. [The Rules](https://sites.google.com/a/ltumathstats.com/austalg/rules-for-the-gordon-preston-prize) for the Gordon Preston Prize are available on the website of the Australian Algebra Group. 
 
 
-<div align="center">
+
 <h2 id="them">Registered Participants</h2>
+<div align="center">
 <table class="tg">
 <thead>
   <tr>
