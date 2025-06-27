@@ -50,6 +50,7 @@ Please include your first and last name in the payment description, and email yo
 
 Please see below the conference registration fees.
 
+<div align="center">
 <html>
 <table class="unstyledTable">
 <thead>
@@ -78,6 +79,7 @@ Please see below the conference registration fees.
 </tbody>
 </table>
 </html>
+</div>
 
 We will have an individually funded conference dinner at to be advised in the evening of Tuesday 18th November.
 
