@@ -38,7 +38,7 @@ To be announced.
 
 <h2 id="rego">Registration</h2>
 
-Registration is now open; to register please fill in [this form]().
+Registration is now open; to register please fill in [this form](https://forms.office.com/r/Sxgz8yMc6Z).
 
 Registration fees should be paid via bank transfer. 
 
@@ -92,7 +92,7 @@ The allocation of funding will be communicated to applicants before registration
 
 <!-- **To register, please fill in [this form](https://forms.gle/HifdrEdRzJRnovBd6).** -->
 
-To register for travel support, please fill in [this form]().
+To register for travel support, please fill in [this form](https://forms.office.com/r/0cpZfR0e0T).
 
 <h2 id="dead">Deadlines</h2>
 
