@@ -16,7 +16,7 @@ The conference has a proud tradition of encouraging talks by students: typically
 
 ## Jump to
 <a href="#schedule">Information</a><br />
-<a href="#inv-sp">Invited speakers</a><br />
+<a href="#inv-sp">Invited Speakers</a><br />
 <a href="#rego">Registration</a><br />
 <a href="#travel">Travel Support for Students</a><br />
 <a href="#dead">Deadlines</a><br />
@@ -32,7 +32,7 @@ This centrally located venue offers convenient access via bus, tram, and train, 
 
 All talks will be held in "room to be announced".
 
-<h2 id="inv-sp">Invited speakers</h2>
+<h2 id="inv-sp">Invited Speakers</h2>
 
 To be announced.
 
@@ -81,11 +81,12 @@ Please see below the conference registration fees.
 </html>
 </div>
 
-We will have an individually funded conference dinner at to be advised in the evening of Tuesday 18th November.
+We will have an individually funded conference dinner at a "venue to be advised" on the evening of Tuesday 18th November.
 
 <h2 id="travel">Travel Support for Students</h2>
 
-There is limited travel support available for students. If you would like to apply for this support, please email [Santiago Barrera Acevedo](mailto:s.barreraacevedo@latrobe.edu.au?subject=Student%20funding%20application%20for%20AAC) with a letter of support from your supervisor and an approximate budget of your expenses.
+There is limited travel support available for students. If you would like to apply for this support, please email [Santiago Barrera Acevedo](mailto:s.barreraacevedo@latrobe.edu.au?subject=Student%20funding%20application%20for%20AAC) with a letter of support from your supervisor and an approximate budget of your expenses. Please include what travel and conference support is being provided to you by your university or other external funding body.
+
 
 The allocation of funding will be communicated to applicants before registration closes.
 
@@ -95,11 +96,11 @@ To register for travel support, please fill in [this form]().
 
 <h2 id="dead">Deadlines</h2>
 
-**Travel support applications due:** 29th September 2023
+**Travel support applications due:** 29th September 2025
 
-**Registration closes:** 3rd November 2023
+**Registration closes:** 3rd November 2025
 
-**Abstract deadline:** 3rd November 2023
+**Abstract deadline:** 3rd November 2025
 
 <h2 id="talks">Talk Schedule</h2>
 
@@ -139,4 +140,4 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
 - [Marcel Jackson](https://scholars.latrobe.edu.au/mgjackson), La Trobe Unversity
 - [Olaga Minchin](https://au.linkedin.com/in/olga-minchin-645743ba), La Trobe Unversity
 
-<h2 id="photo">Conference photo</h2>
+<h2 id="photo">Conference Photo</h2>
