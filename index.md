@@ -46,6 +46,8 @@ Registration fees should be paid via bank transfer.
 
 **Account:** 1007 1018
 
+**Account name:** Victorian Algebra Group
+
 Please include your first and last name in the payment description, and email your payment confirmation (e.g. pdf or sceenshot) to [Marcel Jackson](mailto:m.g.jackson@latrobe.edu.au?subject=Registration%20payment%20for%20AAC).
 
 Please see below the conference registration fees.
