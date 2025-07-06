@@ -87,7 +87,7 @@ We will have an individually funded conference dinner on the evening of Monday 1
 
 <h2 id="travel">Travel Support for Students</h2>
 
-There is limited travel support available for students. If you would like to apply for this support, please email [Santiago Barrera Acevedo](mailto:s.barreraacevedo@latrobe.edu.au?subject=Student%20funding%20application%20for%20AAC) with a letter of support from your supervisor and an approximate budget of your expenses. Please include what travel and conference support is being provided to you by your university or other external funding body.
+There is limited travel support available for students. If you would like to apply for this support, please email [Santi Barrera Acevedo](mailto:s.barreraacevedo@latrobe.edu.au?subject=Student%20funding%20application%20for%20AAC) with a letter of support from your supervisor and an approximate budget of your expenses. Please include what travel and conference support is being provided to you by your university or other external funding body.
 
 
 The allocation of funding will be communicated to applicants before registration closes.
