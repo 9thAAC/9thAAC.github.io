@@ -124,25 +124,37 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-7zrl"><span style="font-weight:normal">Santi Barrera Acevedo</span></td>
+      <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Brian Davey</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">La Trobe University</span></td>
   </tr>
-      <tr>
+  <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Heiko Dietrich</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">Monash University</span></td>
+  </tr>
+    <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Alex Elzenaar</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Monash University</span></td>
   </tr>
    <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Murray Elder</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">University of Technology Sydney</span></td>
   </tr>
-  <tr>
-    <td class="tg-7zrl"><span style="font-weight:normal">Marcel Jackson </span></td>
-    <td class="tg-7zrl"><span style="font-weight:normal">La Trobe University</span></td>
-  </tr>
     <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Stephen Glasby</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">University of Western Australia</span></td>
+  </tr>
+      <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Eileen Pan</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Monash University</span></td>
+  </tr>
+        <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">John Power</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">Macquarie University</span></td>
+  </tr>
+        <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Tao Qin</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">The University of Sydney</span></td>
   </tr>
 </tbody>
 </table>
