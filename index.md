@@ -124,10 +124,6 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
   </tr>
 </thead>
 <tbody>
-      <tr>
-    <td class="tg-7zrl"><span style="font-weight:normal">Bailey Whitbread</span></td>
-    <td class="tg-7zrl"><span style="font-weight:normal">The Univeristy of Sydney</span></td>
-  </tr>
   <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Brian Davey</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">La Trobe University</span></td>
@@ -183,6 +179,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
   <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Don Taylor</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">The University of Sydney</span></td>
+  </tr>
+        <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Bailey Whitbread</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">The Univeristy of Sydney</span></td>
   </tr>
 </tbody>
 </table>
