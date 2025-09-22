@@ -124,9 +124,17 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Brice Arrigo</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">The University of Melbourne</span></td>
+  </tr>
    <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Luka Carroll</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Western Sydney University</span></td>
+  </tr>
+    <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Greta Civani</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">The University of Melbourne</span></td>
   </tr>
   <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Brian Davey</span></td>
@@ -135,6 +143,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
   <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Heiko Dietrich</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Monash University</span></td>
+  </tr>
+    <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Qian Ding</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">La Trobe University</span></td>
   </tr>
    <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Murray Elder</span></td>
