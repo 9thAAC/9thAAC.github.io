@@ -26,7 +26,7 @@ The conference has a proud tradition of encouraging talks by students: typically
 
 <h2 id="schedule">Information</h2>
 
-The conference will be held at the La Trobe University City Campus, located on Level 2, 360 Collins Street, Melbourne VIC 3000.
+The conference will be held at the La Trobe University City Campus, located on Level 3, 360 Collins Street, Melbourne VIC 3000.
 
 This centrally located venue offers convenient access via bus, tram, and train, as it is situated in the heart of Melbourne’s Central Business District (CBD). A wide range of accommodation options, including hotels and hostels, are available nearby, along with numerous dining venues catering to various preferences and budgets.
 
