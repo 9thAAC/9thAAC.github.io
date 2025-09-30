@@ -124,6 +124,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
   </tr>
 </thead>
 <tbody>
+          <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Azeef Ajmal</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">Western Sydney University</span></td>
+  </tr>
   <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Brice Arrigo</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">The University of Melbourne</span></td>
@@ -164,6 +168,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Stephen Glasby</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">University of Western Australia</span></td>
   </tr>
+            <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Seethalakshmi Kayanattath</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">Australian National University</span></td>
+  </tr>
       <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Melissa Lee</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Monash University</span></td>
@@ -187,6 +195,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
         <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Tao Qin</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">The University of Sydney</span></td>
+  </tr>
+    <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Nik Ruskuc</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">University of St Andrews</span></td>
   </tr>
           <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Snehinh Sen</span></td>
