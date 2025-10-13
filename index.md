@@ -35,7 +35,9 @@ All talks will be held in "room to be announced".
 <h2 id="inv-sp">Invited Speakers</h2>
 
  Azeef Ajmal - Western Sydney University
+ 
  Nik Ruskuc - University of St Andrews
+ 
  Adam Thomas - University of Warwick
 
 
