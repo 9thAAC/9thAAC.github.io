@@ -34,7 +34,20 @@ All talks will be held in "room to be announced".
 
 <h2 id="inv-sp">Invited Speakers</h2>
 
-To be announced.
+          <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Azeef Ajmal</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">Western Sydney University</span></td>
+  </tr>
+    <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Nik Ruskuc</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">University of St Andrews</span></td>
+  </tr>
+             <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Adam Thomas</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">University of Warwick</span></td>
+  </tr>
+
+
 
 <h2 id="rego">Registration</h2>
 
@@ -235,6 +248,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
   <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Don Taylor</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">The University of Sydney</span></td>
+  </tr>
+            <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Adam Thomas</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">University of Warwick</span></td>
   </tr>
             <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Vandit Trivedi</span></td>
