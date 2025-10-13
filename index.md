@@ -156,6 +156,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Qian Ding</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">La Trobe University</span></td>
   </tr>
+            <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">James East</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">Western Sydney University</span></td>
+  </tr>
    <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Murray Elder</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">University of Technology Sydney</span></td>
@@ -179,6 +183,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
       <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Deborah Jackson</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">La Trobe University and Sydney University</span></td>
+  </tr>
+        <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Marcel Jackson</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">La Trobe University</span></td>
   </tr>
             <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Seethalakshmi Kayanattath</span></td>
@@ -235,6 +243,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Stefan Veldsman</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Nelson Mandela University and La Trobe University</span></td>
+  </tr>
+    <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Joshua Walters</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">The University of Melbourne</span></td>
   </tr>
         <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Bailey Whitbread</span></td>
