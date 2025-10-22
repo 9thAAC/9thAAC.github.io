@@ -265,6 +265,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Joshua Walters</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">The University of Melbourne</span></td>
   </tr>
+      <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Vindya Warnakulasooriyage</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">RMIT University</span></td>
+  </tr>
         <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Bailey Whitbread</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">The Univeristy of Sydney</span></td>
