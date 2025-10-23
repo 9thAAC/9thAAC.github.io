@@ -113,6 +113,8 @@ To register for travel support, please fill in [this form](https://forms.office.
 
 To be announced. 
 
+Contributed talks are 20 minutes long, with an additional 5 minutes for questions and change of speaker.
+
 ## Gordon Preston Prize
 
 The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/gordon-preston-prize) is awarded for the best presentation at the AAC given by a current student based at an Australian or overseas university. The presentations will be judged by a panel appointed by the executive committee. The winner of the prize will receive $300. [The Rules](https://sites.google.com/a/ltumathstats.com/austalg/rules-for-the-gordon-preston-prize) for the Gordon Preston Prize are available on the website of the Australian Algebra Group. 
