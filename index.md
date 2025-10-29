@@ -131,7 +131,7 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
   </tr>
 </thead>
 <tbody>
-          <tr>
+  <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Azeef Ajmal</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Western Sydney University</span></td>
   </tr>
