@@ -195,6 +195,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Matthias Fresacher</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Western Sydney University</span></td>
   </tr>
+      <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Barry Gardner</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal"></span></td>
+  </tr>
     <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Stephen Glasby</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">University of Western Australia</span></td>
@@ -222,6 +226,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
             <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Seethalakshmi Kayanattath</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Australian National University</span></td>
+  </tr>
+          <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Finn Klein</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">The Univeristy of Sydney</span></td>
   </tr>
       <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Melissa Lee</span></td>
