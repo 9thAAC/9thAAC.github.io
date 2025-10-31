@@ -344,4 +344,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
 - [Marcel Jackson](https://scholars.latrobe.edu.au/mgjackson), La Trobe Unversity
 - [Olga Minchin](https://au.linkedin.com/in/olga-minchin-645743ba), La Trobe Unversity
 
+<h2 id="photo">Conference Dinner</h2>
+
+The conference dinner will be held at Stomping Ground Brewery (100 Gipps St, Collingwood 3066) on Sunday, November 17, from 5:30 pm to 8:30 pm.
+
+Stomping Ground offers a relaxed, welcoming atmosphere and has earned multiple awards, including Champion Medium Australian Brewery (AIBA 2024 & 2022) and Champion Australian Independent Large Brewery (Indies 2021).
+
 <h2 id="photo">Conference Photo</h2>
