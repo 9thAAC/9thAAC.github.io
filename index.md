@@ -330,6 +330,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Jung Won Cho</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">University of St Andrews</span></td>
   </tr>
+    <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Binzhou Xia</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">The University of Melbourne</span></td>
+  </tr>
 </tbody>
 </table>
 </div>
