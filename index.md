@@ -143,6 +143,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Brice Arrigo</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">The University of Melbourne</span></td>
   </tr>
+      <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Santi Barrera Acevedo</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">La Trobe University</span></td>
+  </tr>
     <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Michal Botur</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Palacký University Olomouc</span></td>
