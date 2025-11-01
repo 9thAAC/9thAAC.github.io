@@ -137,7 +137,7 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
   </tr>
            <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Reymond Akpanya</span></td>
-    <td class="tg-7zrl"><span style="font-weight:normal">The Univeristy of Sydney</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">The University of Sydney</span></td>
   </tr>
   <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Brice Arrigo</span></td>
@@ -229,7 +229,7 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
   </tr>
           <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Finn Klein</span></td>
-    <td class="tg-7zrl"><span style="font-weight:normal">The Univeristy of Sydney</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">The University of Sydney</span></td>
   </tr>
       <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Melissa Lee</span></td>
@@ -324,7 +324,7 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
   </tr>
         <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Bailey Whitbread</span></td>
-    <td class="tg-7zrl"><span style="font-weight:normal">The Univeristy of Sydney</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">The University of Sydney</span></td>
   </tr>
   <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Jung Won Cho</span></td>
