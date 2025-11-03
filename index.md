@@ -88,7 +88,6 @@ Please see below the conference registration fees.
 </html>
 </div>
 
-We will have an individually funded conference dinner on the evening of Monday 17th November at a "venue to be advised".
 
 <h2 id="travel">Travel Support for Students</h2>
 
@@ -359,7 +358,7 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
 
 <h2 id="photo">Conference Dinner</h2>
 
-The conference dinner will be held at Stomping Ground Brewery (100 Gipps St, Collingwood 3066) on Monday, November 17, from 5:30 pm to 8:30 pm.
+The conference (self-funded) dinner will be held at Stomping Ground Brewery (100 Gipps St, Collingwood 3066) on Monday, November 17, from 5:30 pm to 8:30 pm.
 
 Stomping Ground offers a relaxed, welcoming atmosphere and has earned multiple awards, including Champion Medium Australian Brewery (AIBA 2024 & 2022) and Champion Australian Independent Large Brewery (Indies 2021).
 
