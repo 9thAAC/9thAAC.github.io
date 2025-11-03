@@ -254,15 +254,15 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
        </tr>
       <td class="tg-7zrl"><span style="font-weight:normal">Mengfan Lyu</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Western Sydney University</span></td>
-  </tr>        
+  </tr>   
+            <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Lavender Marshall</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">Monash University</span></td>
+  </tr>
        <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Bailey McLellan</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">The University of Melbourne</span></td>
    <tr>
-          <tr>
-    <td class="tg-7zrl"><span style="font-weight:normal">Lavender Marshall</span></td>
-    <td class="tg-7zrl"><span style="font-weight:normal">Monash University</span></td>
-  </tr>
         <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Eileen Pan</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Monash University</span></td>
