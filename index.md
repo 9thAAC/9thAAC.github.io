@@ -356,7 +356,7 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
 - [Marcel Jackson](https://scholars.latrobe.edu.au/mgjackson), La Trobe Unversity
 - [Olga Minchin](https://au.linkedin.com/in/olga-minchin-645743ba), La Trobe Unversity
 
-<h2 id="photo">Conference Dinner</h2>
+<h2 id="diner">Conference Dinner</h2>
 
 The conference (self-funded) dinner will be held at Stomping Ground Brewery (100 Gipps St, Collingwood 3066) on Monday, November 17, from 5:30 pm to 8:30 pm.
 
