@@ -134,7 +134,7 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Azeef Ajmal</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Western Sydney University</span></td>
   </tr>
-           <tr>
+  <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Reymond Akpanya</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">The University of Sydney</span></td>
   </tr>
@@ -142,7 +142,7 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Brice Arrigo</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">The University of Melbourne</span></td>
   </tr>
-      <tr>
+  <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Santi Barrera Acevedo</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">La Trobe University</span></td>
   </tr>
@@ -158,7 +158,7 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Greta Civani</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">The University of Melbourne</span></td>
   </tr>
-        <tr>
+  <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Graham Clarke</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">RMIT University</span></td>
   </tr>
@@ -174,7 +174,7 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Qian Ding</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">La Trobe University</span></td>
   </tr>
-            <tr>
+   <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">James East</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Western Sydney University</span></td>
   </tr>
@@ -182,7 +182,7 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Murray Elder</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">University of Technology Sydney</span></td>
   </tr>
-      <tr>
+  <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Alex Elzenaar</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Monash University</span></td>
   </tr>
@@ -190,7 +190,7 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Fawwaz Fakhrurrozi</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">The University of Melbourne</span></td>
   </tr>
-          <tr>
+  <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Alexander Fish</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">The University of Sydney</span></td>
   </tr>
