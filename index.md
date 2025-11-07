@@ -123,7 +123,6 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
 <h2 id="them">Registered Participants</h2>
 
 <div align="center">
-  <html>
 <table class="tg">
 <thead>
   <tr>
