@@ -274,6 +274,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Bailey McLellan</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">The University of Melbourne</span></td>
    </tr>
+          <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Sidney Morris</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">La Trobe University</span></td>
+  </tr>
         <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Eileen Pan</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Monash University</span></td>
@@ -314,6 +318,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Snehinh Sen</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Australian National University</span></td>
   </tr>
+            <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Tanisha Talekar</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">Australian National University</span></td>
+  </tr>
           <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Joshua Tan</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">University of Technology Sydney</span></td>
@@ -330,6 +338,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Vandit Trivedi</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Australian National University</span></td>
   </tr>
+         <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Moshe Uhrig</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">The University of Melbourne</span></td>
+   </tr>
     <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Stefan Veldsman</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Nelson Mandela University and La Trobe University</span></td>
