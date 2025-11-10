@@ -110,7 +110,9 @@ To register for travel support, please fill in [this form](https://forms.office.
 
 <h2 id="talks">Talk Schedule</h2>
 
-To be announced. 
+<div align="center">
+  <img src="schedule.png" style="object-fit:cover;width:800px;"> 
+  </div>
 
 Contributed talks are 20 minutes long, with an additional 5 minutes for questions and change of speaker.
 
