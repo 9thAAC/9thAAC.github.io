@@ -177,6 +177,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Qian Ding</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">La Trobe University</span></td>
   </tr>
+    <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Norm Do</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">Monash University</span></td>
+  </tr>
    <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">James East</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Western Sydney University</span></td>
@@ -200,6 +204,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
         <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Matthias Fresacher</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Western Sydney University</span></td>
+  </tr>
+        <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Sean Gardiner</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal"></span>UNSW</td>
   </tr>
       <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Barry Gardner</span></td>
