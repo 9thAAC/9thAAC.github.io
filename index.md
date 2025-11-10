@@ -111,7 +111,9 @@ To register for travel support, please fill in [this form](https://forms.office.
 
 <h2 id="talks">Talk Schedule</h2>
 
-
+<div align="center">
+  <img src="Schedule.png" style="object-fit:cover;width:800px;"> 
+  </div>
 
 Contributed talks are 20 minutes long, with an additional 5 minutes for questions and change of speaker.
 
@@ -355,6 +357,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Binzhou Xia</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">The University of Melbourne</span></td>
+  </tr>
+          <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Mike Zhang</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">The University of Sydney</span></td>
   </tr>
 </tbody>
 </table>
