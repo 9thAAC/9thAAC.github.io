@@ -35,7 +35,7 @@ All talks will be held in "room to be announced".
 
 <h2 id="inv-sp">Invited Speakers</h2>
 
- Azeef Ajmal - Western Sydney University
+ P. A. Azeef Muhammed - Western Sydney University
  
  Nik Ruskuc - University of St Andrews
  
@@ -135,7 +135,7 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7zrl"><span style="font-weight:normal">Azeef Ajmal</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">P.\ A.\ Azeef Muhammed</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Western Sydney University</span></td>
   </tr>
   <tr>
