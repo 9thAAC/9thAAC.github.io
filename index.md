@@ -44,7 +44,7 @@ All talks will be held in "room to be announced".
 
 <h2 id="rego">Registration</h2>
 
-Registration is now open; to register please fill in [this form](https://forms.office.com/r/Sxgz8yMc6Z).
+Registration is now closed.
 
 Registration fees should be paid via bank transfer. 
 
