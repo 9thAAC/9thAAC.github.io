@@ -99,7 +99,7 @@ The allocation of funding will be communicated to applicants before registration
 
 <!-- **To register, please fill in [this form](https://forms.gle/HifdrEdRzJRnovBd6).** -->
 
-To register for travel support, please fill in [this form](https://forms.office.com/r/0cpZfR0e0T).
+Register for travel support is now closed.
 
 <h2 id="dead">Deadlines</h2>
 
