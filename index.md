@@ -111,7 +111,9 @@ Register for travel support is now closed.
 
 <h2 id="talks">Talk Schedule</h2>
 
-
+<div align="center">
+  <img src="Schedule.png" style="object-fit:cover;width:800px;"> 
+  </div>
 
 Contributed talks are 20 minutes long, with an additional 5 minutes for questions and change of speaker.
 
