@@ -31,7 +31,7 @@ The conference will be held at La Trobe University City Campus, Level 3 (Rooms 3
 
 This centrally located venue offers convenient access via bus, tram, and train, as it is situated in the heart of Melbourne’s Central Business District (CBD). A wide range of accommodation options, including hotels and hostels, are available nearby, along with numerous dining venues catering to various preferences and budgets.
 
-
+Please click <a href="AAC09-BOA.pdf">here</a> to download the conference information booklet, which includes the abstracts and the schedule.
 
 <h2 id="inv-sp">Invited Speakers</h2>
 
