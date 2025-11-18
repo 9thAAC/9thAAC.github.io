@@ -15,6 +15,10 @@ The main aim of the annual Australian Algebra Conference is to foster communicat
 
 The conference has a proud tradition of encouraging talks by students: typically about one third of the talks are presented by students. The conference aims to provide graduate students in algebra with the opportunity to give their first public presentation in a relaxed and supportive environment. Each conference, the most outstanding student talk is awarded the [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/gordon-preston-prize).
 
+<div align="center">
+  <img src="AAC09.png" style="object-fit:cover;width:800px;"> 
+  </div>
+
 ## Jump to
 <a href="#schedule">Information</a><br />
 <a href="#inv-sp">Invited Speakers</a><br />
