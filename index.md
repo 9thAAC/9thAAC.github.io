@@ -398,4 +398,4 @@ The conference (self-funded) dinner will be held at Stomping Ground Brewery (100
 
 Stomping Ground offers a relaxed, welcoming atmosphere and has earned multiple awards, including Champion Medium Australian Brewery (AIBA 2024 & 2022) and Champion Australian Independent Large Brewery (Indies 2021).
 
-<h2 id="photo">Conference Photo</h2>
+
